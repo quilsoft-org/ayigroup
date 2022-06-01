@@ -10,6 +10,7 @@
 	path = odoo-argentina-ee
 	url = https://github.com/quilsoft-org/odoo-argentina-ee.git
 	branch = 14.0
+
 [submodule "account-payment"]
 	path = account-payment
 	url = https://github.com/quilsoft-org/account-payment.git
